@@ -27,7 +27,7 @@ jobs:
       run: mkdir -p docs
 
     - name: Generate RSS feed
-      run: python rss_combiner.py --config feeds.json --output docs/combined.xml --title "My Combined RSS Feed" --no-duplicates
+      run: python rss_combiner.py --csv-url "https://docs.google.com/spreadsheets/d/e/2PACX-1vQOJhsHTO7hWYd15XnQpGvscmeCqYa3NPT6yt6nai0gRs8ocbuTZsuh_FxxcJqIBS9_RDsSNM5fbLVp/pub?gid=1623404092&single=true&output=csv" --output docs/combined.xml --title "My Combined RSS Feed" --no-duplicates
 
     - name: Commit and push changes
       run: |
