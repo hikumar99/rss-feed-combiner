@@ -1,0 +1,38 @@
+name: Update RSS Feed
+on:
+  schedule:
+    - cron: '0 */2 * * *'  
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: pip install feedparser requests
+
+    - name: Create docs directory
+      run: mkdir -p docs
+
+    - name: Generate RSS feed
+      run: python rss_combiner.py --config feeds.json --output docs/combined.xml --title "My Combined RSS Feed" --no-duplicates
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/combined.xml
+        git diff --staged --quiet || git commit -m "Update RSS feed - $(date)"
+        git push
