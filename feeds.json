@@ -1,9 +1,13 @@
-{
-  "feeds": [
-    "https://feeds.feedburner.com/oreilly/radar1",
-    "https://rss.cnn.com/rss/edition1.rss",
-    "https://feeds.feedburner.com/TechCrunch1",
-    "https://feeds.bbci.co.uk/news/rss1.xml",
-    "https://episodefeed.com/rss/2636/77a3346a8a324f681550db6a414747cc1e67e0c0"
-  ]
-}
+import requests
+import csv
+
+def get_feeds_from_google_sheet(csv_url):
+    resp = requests.get(csv_url)
+    lines = resp.text.splitlines()
+    reader = csv.reader(lines)
+    feeds = [row[0] for row in reader if row]  # assume URLs in first column
+    return feeds
+
+# Usage:
+FEED_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQOJhsHTO7hWYd15XnQpGvscmeCqYa3NPT6yt6nai0gRs8ocbuTZsuh_FxxcJqIBS9_RDsSNM5fbLVp/pub?gid=1623404092&single=true&output=csv"
+feeds = get_feeds_from_google_sheet(FEED_CSV_URL)
