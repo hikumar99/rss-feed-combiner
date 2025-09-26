@@ -36,7 +36,7 @@ def parse_feeds(csv_url):
     all_entries = []
     for url in feeds:
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(url, etag=None, modified=None)
             if feed.bozo:
                 # Log non-well-formed feeds but continue
                 print(f"WARNING: Feed may be malformed: {url}")
