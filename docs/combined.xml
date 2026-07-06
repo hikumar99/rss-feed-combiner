@@ -3,6 +3,100 @@
   <channel>
     <title>My Combined RSS Feed</title>
     <item>
+      <title>Notion AI: Datei-Verarbeitung in mehreren Formaten für Custom Agents</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-ai-multi-format-file-processing-for-custom-agents/</link>
+      <description>Custom Agents können jetzt eine größere Bandbreite an Office-Dateien lesen und erstellen – PPTX, XLSX, DOCX und PDF. Damit werden Dateianhänge zu nutzbarem Kontext für einen Agent, statt zu etwas, [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Enterprise: Custom-Agent-Aktionen jetzt im Workspace Audit Log</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-enterprise-custom-agent-actions-added-to-workspace-audit-logs/</link>
+      <description>Das Audit Log von Notion erfasst jetzt die Aktivität von Custom Agents und gibt Enterprise-Admins Einblick, was automatisierte Agents in einem Workspace tun. Aktionen von Agents hinterließen bisher kaum Spuren [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Blocks: Nativer HTML-Support mit KI-Generierung</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-blocks-native-html-support-with-ai-generation/</link>
+      <description>Notion hat einen nativen HTML-Block ergänzt – einen Ort, um eigenes HTML direkt auf einer Seite einzufügen, hochzuladen oder zu generieren. Er gibt dir eine abgeschottete Fläche für eigenen Webcode, [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion UX: Schnelleres Erstellen verknüpfter Datenbanken in Teamspaces</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-ux-faster-linked-database-creation-in-teamspaces/</link>
+      <description>Wenn du einem Teamspace eine Seite hinzufügst, gibt es jetzt einen schnelleren Weg, eine verknüpfte Ansicht einer bestehenden Datenquelle zu erstellen, statt standardmäßig eine brandneue Datenbank anzulegen. Die Änderung zielt [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Mail wird eingestellt</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-mail-winding-down/</link>
+      <description>Notion stellt den eigenständigen Notion-Mail-Posteingang – im Web, auf dem Desktop und unter iOS – zum 22. September 2026 ein. Notions erklärte Begründung: Mehr als die Hälfte der Notion-Mail-Nutzer verwaltet [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Calendar + Agents lassen sich jetzt mit Outlook verbinden</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-calendar-agents-now-connect-to-outlook/</link>
+      <description>Notion Calendar lässt sich jetzt mit Outlook verbinden und reiht sich damit neben Google und iCloud als unterstützter Anbieter in der einheitlichen Notion-Calendar-Oberfläche ein. Für Outlook-Kalender steht dieselbe Bandbreite an [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Dashboards: Gruppierte Multi-Source-Filter für Formulas und Rollups</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-dashboards-grouped-multi-source-filters-for-formulas-rollups/</link>
+      <description>Die globalen Filter in Notion Dashboards funktionieren jetzt mit Formula- und Rollup-Eigenschaften, sodass ein einzelner Filter mehrere Datenbanken abdecken kann – selbst wenn diese den Wert unterschiedlich speichern. Globale Filter [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Calendar: Einheitliche Meeting-Notes-Integration</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-calendar-unified-meeting-notes-integration/</link>
+      <description>Notion führt jetzt pro Termin eine einzige, synchronisierte Meeting Note über die Notion-App und Notion Calendar hinweg, statt getrennter Notizen an beiden Orten. Bisher verhielt sich eine Notiz an einem [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Workers: Windows-Unterstützung über npm und winget</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-workers-windows-support-via-npm-and-winget/</link>
+      <description>Notion Workers lassen sich jetzt unter Windows über npm und den Windows Package Manager (winget) installieren und bringen die ntn-Entwickler-Toolchain zu Entwicklerinnen und Entwicklern auf Windows. Workers sind Notions gehostete [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Claude und Cursor: External Agents jetzt verfügbar</title>
+      <link>https://matthiasfrank.de/notion-updates/claude-and-cursor-external-agents-now-available/</link>
+      <description>Notion unterstützt jetzt External Agents – Claude und Cursor sind die ersten beiden –, sodass KI-Tools von Drittanbietern direkt in einem Notion-Workspace arbeiten können, als sichtbare Teilnehmer, die sich per [&amp;#8230;]</description>
+      <pubDate>Mon, 06 Jul 2026 17:34:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Apple Reacts to the Biggest iPhone Leak Ever</title>
+      <link>https://www.youtube.com/watch?v=PJNf1U3tkw8</link>
+      <description>Forget about the celebrity nudegate, Apple’s next iPhone 18 Pro just got exposed online...
+
+SOURCE: https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/
+
+SUPPORT: https://funkytime.tv/patriot-signup/
+MERCH: https://funkytime.tv/shop/
+FUNKY TIME WEBSITE: https://funkytime.tv
+
+FACEBOOK: http://www.facebook.com/SamtimeNews
+TWITTER: http://twitter.com/SamtimeNews
+INSTAGRAM: http://instagram.com/samtimenews
+
+-----------------------------------
+
+'Escape the ordinary. Embrace the FUNKY!'
+
+-----------------------------------
+
+SAMTIME is a parody channel and does not represent the tech company featured.
+
+For sponsorship enquiries: samtime@bossmgmtgrp.com
+For other business enquiries: business@funkytime.tv
+Copyright FUNKY TIME PRODUCTIONS 2026</description>
+      <pubDate>Mon, 06 Jul 2026 17:27:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Advanced UiPath Training – AI Agents, MCP, Document Understanding &amp; Maestro</title>
+      <link>https://www.youtube.com/watch?v=4fWOPLAYS3k</link>
+      <description/>
+      <pubDate>Mon, 06 Jul 2026 17:07:27 -0000</pubDate>
+    </item>
+    <item>
       <title>WE RESCUED A GIRL ‼️‼️| Telugu Podcast | Raw Talks With VK | #shorts #telugushorts</title>
       <link>https://www.youtube.com/shorts/uftPk-GdOQU</link>
       <description>.
@@ -285,12 +379,6 @@ Turn on notifications for more automation content
 
 #UiPath #RPA #AIAgents #DocumentUnderstanding #MCP #Maestro #AgenticAutomation #Automation #RPAVault #UiPathTraining #IntelligentAutomation #RPADeveloper #ArtificialIntelligence #EnterpriseAutomation #AutomationEngineer</description>
       <pubDate>Mon, 06 Jul 2026 05:08:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>Advanced UiPath Training – AI Agents, MCP, Document Understanding &amp; Maestro</title>
-      <link>https://www.youtube.com/watch?v=4fWOPLAYS3k</link>
-      <description/>
-      <pubDate>Mon, 06 Jul 2026 02:59:07 -0000</pubDate>
     </item>
     <item>
       <title>America And FIFA Corruption</title>
@@ -3546,18 +3634,6 @@ Disclaimer - some contents are used for educational purpose under fair use. Copy
       <pubDate>Sun, 28 Jun 2026 13:23:49 -0000</pubDate>
     </item>
     <item>
-      <title>Claude Fable 5 jetzt in Notion verfügbar</title>
-      <link>https://matthiasfrank.de/notion-updates/claude-fable-5-now-available-in-notion/</link>
-      <description>Claude Fable 5 ist jetzt als Modelloption in Notion verfügbar und richtet sich an die komplexesten Custom Agents und Workers. Notion hat Fable 5 öffentlich als das Modell für die [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 11:39:55 -0000</pubDate>
-    </item>
-    <item>
-      <title>Synced Blocks zwischen Workspaces kopieren</title>
-      <link>https://matthiasfrank.de/notion-updates/synced-block-copy-between-workspaces/</link>
-      <description>Synced Blocks lassen sich über Seiten hinweg kopieren und synchronisieren, und Notions Dokumentation schließt das Synchronisieren von Blöcken über Workspaces hinweg ausdrücklich ein. Notions Hilfeartikel zu Synced Blocks beschreibt, wie [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 11:39:51 -0000</pubDate>
-    </item>
-    <item>
       <title>🚨MOON Meeda Hotel Start Chesadu !!! l🌕🏨 💰💵 Will You Go? | Aye Jude✊🏼</title>
       <link>https://www.youtube.com/watch?v=8gknK_eJyLI</link>
       <description>Join this channel to get access to perks:
@@ -3567,54 +3643,6 @@ Title : 🚨Worlds first moon Hotel🌕🏨 Starts JUST 2 Crores Entry💰💵 |
 
 #AyeJude #LatestNews #NewsExplained #NewsUpdates #BreakingNews #DailyNews #CurrentAffairs #IndiaNews #LatestUpdates #WhatHappened #DailyUpdates #Students #India #TrendingNews #NewsAnalysis #Explainer #Education #Youth #DailyUploads #ViralNew</description>
       <pubDate>Sun, 28 Jun 2026 10:16:50 -0000</pubDate>
-    </item>
-    <item>
-      <title>Neue Tastaturkürzel</title>
-      <link>https://matthiasfrank.de/notion-updates/new-keyboard-shortcuts/</link>
-      <description>Notion hat einen eigenen Satz an zweibuchstabigen Slash-Befehlen eingeführt, um die einfache Navigation im Workspace wiederherzustellen. Die Designänderung kommt, nachdem eine kleine Umformulierung der Option &amp;#8220;Dashboard view&amp;#8221; versehentlich das altbewährte [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:30 -0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Outlook AI Connector für Notion</title>
-      <link>https://matthiasfrank.de/notion-updates/microsoft-outlook-ai-connector-for-notion/</link>
-      <description>Notion hat einen dedizierten Microsoft Outlook AI Connector veröffentlicht, mit dem Teams ihre Outlook-Postfächer direkt mit Notion AI verbinden können – für nahtlose tool-übergreifende Suche und kontextbezogene Antworten. Dieses Update [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:30 -0000</pubDate>
-    </item>
-    <item>
-      <title>Notion AI: GLM 5.2 Integration</title>
-      <link>https://matthiasfrank.de/notion-updates/notion-ai-glm-5-2-integration/</link>
-      <description>Notion hat sein Multi-Model-Ökosystem erweitert und GLM 5.2 zu seiner Modellauswahl hinzugefügt – ein leistungsstarkes Frontier-Class-Modell, entwickelt von Zhipu AI. Optimiert für die Verarbeitung von riesigem Engineering-Kontext und autonomen Aufgaben, [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:30 -0000</pubDate>
-    </item>
-    <item>
-      <title>Der Layout Builder funktioniert jetzt auf Mobilgeräten</title>
-      <link>https://matthiasfrank.de/notion-updates/layout-builder-now-works-on-mobile/</link>
-      <description>Notions Layout Builder funktioniert jetzt auf dem Smartphone, sodass du Datenbank-Seitenlayouts direkt in der mobilen App neu anordnen kannst. Notions offizielle Layout-Dokumentation beschreibt jetzt Mobile-Support für den Layout Builder, inklusive [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:29 -0000</pubDate>
-    </item>
-    <item>
-      <title>Bis zu 15 Pins im Database Page Layout</title>
-      <link>https://matthiasfrank.de/notion-updates/up-to-15-pins-on-database-page-layout/</link>
-      <description>Notion-Nutzer wünschen sich “unendliche Pins”, also die Möglichkeit, mehr Elemente anzupinnen, als die heutige UI in Datenbank-Seitenlayouts komfortabel zulässt. Im Layout-Builder von Notion sind angepinnte Eigenschaften derzeit begrenzt (Notions eigene [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Custom Agent Duplizierung und eingeschränkter Zugriff</title>
-      <link>https://matthiasfrank.de/notion-updates/custom-agent-duplication-and-scoped-access/</link>
-      <description>Du kannst jetzt einen Custom Agent duplizieren, um deine eigene private Kopie zu erstellen. Notions Dokumentation gibt an, dass die Kopie standardmäßig privat ist, und Notion verwendet die Berechtigungen der [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Audio in Notion Meeting Notes hochladen</title>
-      <link>https://matthiasfrank.de/notion-updates/upload-audio-to-notion-meeting-notes/</link>
-      <description>Notion hat offiziell die Möglichkeit ausgerollt, vorab aufgenommene Audiodateien direkt in den AI Meeting Notes Workflow hochzuladen, und geht damit über die bisherige Beschränkung auf reine Live-Aufnahmen hinaus. Dieses Update [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:26 -0000</pubDate>
-    </item>
-    <item>
-      <title>Custom Agents können auf das Team-Verzeichnis zugreifen</title>
-      <link>https://matthiasfrank.de/notion-updates/custom-agents-can-access-the-team-directory/</link>
-      <description>Notion hat seine systemgenerierte People Database vollständig für das Entwickler-Ökosystem geöffnet und führt robusten programmatischen Zugriff über die Notion API, die native ntn CLI und Custom Agents ein. Dieses Update [&amp;#8230;]</description>
-      <pubDate>Sun, 28 Jun 2026 09:18:26 -0000</pubDate>
     </item>
     <item>
       <title>🚨Shoaib Akhtar Connections With Terr*rists | DARK Reality of Pakistan's Undercover Networks| VR Raja</title>
@@ -8918,40 +8946,6 @@ If you found this demo helpful, don't forget to Like, Share, and Subscribe for m
 
 #Agile #Scrum #ProductDelivery #ProjectManagement #ScrumMaster #ProductOwner #RPAVault</description>
       <pubDate>Sat, 30 May 2026 10:24:04 -0000</pubDate>
-    </item>
-    <item>
-      <title>Everyone is Leaving Google</title>
-      <link>https://www.youtube.com/watch?v=X5NSdq2IRSk</link>
-      <description>Google’s search is getting sloppy.
-
-SOURCES:
-https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/
-https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/
-https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/
-https://thedroidguy.com/does-duckduckgo-use-bing-results-the-ultimate-search-engine-guide-1261346
-https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/
-
-
-SUPPORT: https://funkytime.tv/patriot-signup/
-MERCH: https://funkytime.tv/shop/
-FUNKY TIME WEBSITE: https://funkytime.tv
-
-FACEBOOK: http://www.facebook.com/SamtimeNews
-TWITTER: http://twitter.com/SamtimeNews
-INSTAGRAM: http://instagram.com/samtimenews
-
------------------------------------
-
-'Escape the ordinary. Embrace the FUNKY!'
-
------------------------------------
-
-SAMTIME is a parody channel and does not represent the tech company featured.
-
-For sponsorship enquiries: samtime@bossmgmtgrp.com
-For other business enquiries: business@funkytime.tv
-Copyright FUNKY TIME PRODUCTIONS 2026</description>
-      <pubDate>Fri, 29 May 2026 18:01:48 -0000</pubDate>
     </item>
     <item>
       <title>Lewis Hamilton Explains F1 Tire Strategy</title>
