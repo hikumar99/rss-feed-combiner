@@ -3,6 +3,24 @@
   <channel>
     <title>My Combined RSS Feed</title>
     <item>
+      <title>Notion Workers: Jetzt im Credits-Dashboard</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-workers-now-in-the-credits-dashboard/</link>
+      <description>Die Worker-Nutzung erscheint jetzt im Notion Credits-Dashboard neben den Ausgaben für Custom Agents. Das Dashboard gibt es wegen dem, was danach kommt: Workers sind während der Beta kostenlos, und ab [&amp;#8230;]</description>
+      <pubDate>Thu, 30 Jul 2026 19:18:02 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Workers: Teilen und Berechtigungen</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-workers-sharing-and-permissions/</link>
+      <description>Ein Notion Worker ist nicht länger an die Person gebunden, die ihn deployed hat – Workers lassen sich jetzt mit dem restlichen Team teilen. Das Teilen ist an Berechtigungen geknüpft: [&amp;#8230;]</description>
+      <pubDate>Thu, 30 Jul 2026 19:18:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Notion Agents: Eigene iOS-App</title>
+      <link>https://matthiasfrank.de/notion-updates/notion-agents-dedicated-ios-app/</link>
+      <description>Notion Agents hat jetzt eine eigene iOS-App, getrennt von der mobilen Notion-App. Neue Agent-Funktionen bringt sie nicht – alles darin war schon vorher über Notion Agent in der Haupt-App erreichbar. [&amp;#8230;]</description>
+      <pubDate>Thu, 30 Jul 2026 19:18:01 -0000</pubDate>
+    </item>
+    <item>
       <title>Captain America 🤝 The Falcon</title>
       <link>https://www.youtube.com/shorts/ha5F2ZoIp30</link>
       <description>All titles are now streaming on @disneyplus 
@@ -646,7 +664,7 @@ Tune in. Rethink. Explore. Laugh. Repeat.</description>
       <pubDate>Wed, 29 Jul 2026 20:01:11 -0000</pubDate>
     </item>
     <item>
-      <title>European Countries Could Boycott The World Cup</title>
+      <title>European Countries Boycotting The World Cup</title>
       <link>https://www.youtube.com/shorts/ia_KTG-dPgs</link>
       <description/>
       <pubDate>Wed, 29 Jul 2026 19:03:52 -0000</pubDate>
@@ -8469,24 +8487,6 @@ http://facebook.com/MKBHD</description>
       <link>https://matthiasfrank.de/notion-updates/notion-dashboards-grouped-multi-source-filters-for-formulas-rollups/</link>
       <description>Die globalen Filter in Notion Dashboards funktionieren jetzt mit Formula- und Rollup-Eigenschaften, sodass ein einzelner Filter mehrere Datenbanken abdecken kann – selbst wenn diese den Wert unterschiedlich speichern. Globale Filter [&amp;#8230;]</description>
       <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
-    </item>
-    <item>
-      <title>Notion Calendar: Einheitliche Meeting-Notes-Integration</title>
-      <link>https://matthiasfrank.de/notion-updates/notion-calendar-unified-meeting-notes-integration/</link>
-      <description>Notion führt jetzt pro Termin eine einzige, synchronisierte Meeting Note über die Notion-App und Notion Calendar hinweg, statt getrennter Notizen an beiden Orten. Bisher verhielt sich eine Notiz an einem [&amp;#8230;]</description>
-      <pubDate>Mon, 06 Jul 2026 17:34:49 -0000</pubDate>
-    </item>
-    <item>
-      <title>Notion Workers: Windows-Unterstützung über npm und winget</title>
-      <link>https://matthiasfrank.de/notion-updates/notion-workers-windows-support-via-npm-and-winget/</link>
-      <description>Notion Workers lassen sich jetzt unter Windows über npm und den Windows Package Manager (winget) installieren und bringen die ntn-Entwickler-Toolchain zu Entwicklerinnen und Entwicklern auf Windows. Workers sind Notions gehostete [&amp;#8230;]</description>
-      <pubDate>Mon, 06 Jul 2026 17:34:48 -0000</pubDate>
-    </item>
-    <item>
-      <title>Claude und Cursor: External Agents jetzt verfügbar</title>
-      <link>https://matthiasfrank.de/notion-updates/claude-and-cursor-external-agents-now-available/</link>
-      <description>Notion unterstützt jetzt External Agents – Claude und Cursor sind die ersten beiden –, sodass KI-Tools von Drittanbietern direkt in einem Notion-Workspace arbeiten können, als sichtbare Teilnehmer, die sich per [&amp;#8230;]</description>
-      <pubDate>Mon, 06 Jul 2026 17:34:48 -0000</pubDate>
     </item>
     <item>
       <title>Apple Reacts to the Biggest iPhone Leak Ever</title>
