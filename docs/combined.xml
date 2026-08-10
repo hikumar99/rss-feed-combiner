@@ -3,6 +3,544 @@
   <channel>
     <title>My Combined RSS Feed</title>
     <item>
+      <title>Unions in PostgreSQL</title>
+      <link>https://www.youtube.com/watch?v=GSqssPlT3dE</link>
+      <description>Create the Database with this script: https://github.com/AlexTheAnalyst/PostgresqlYouTubeSeries
+
+Practice Postgresql here: https://www.analystbuilder.com/questions
+
+In this series I want to teach you Postgresql! It's one of the most popular types of SQL right now and is becoming even more popular with the rise of AI. I'll teach you all the syntax and how to use it as well as go beyond just querying!
+
+Code:
+CREATE TABLE character_info_extra (
+    character_id SERIAL PRIMARY KEY,
+    character_name TEXT NOT NULL,
+    species TEXT,
+    planet_id INT,
+    ship_id INT,
+    estimated_net_worth NUMERIC(12,2),
+    has_both_arms CHAR(1),
+    birth_date DATE
+);
+
+INSERT INTO character_info_extra 
+(character_name, species, planet_id, ship_id, estimated_net_worth, has_both_arms, birth_date)
+VALUES
+('Ahsoka Tano', 'Togruta', 3, NULL, 220000.00, 'Y', '1985-10-14'),
+('Mace Windu', 'Human', 4, 5, 950000.00, 'Y', '1950-02-03'),
+('Rey', 'Human', 1, 2, 120000.00, 'Y', '1999-04-10'),
+('Finn', 'Human', 1, NULL, 45000.00, 'Y', '1992-07-21'),
+('Poe Dameron', 'Human', 2, 1, 310000.00, 'Y', '1982-03-09'),
+('General Hux', 'Human', 7, NULL, 80000.00, 'Y', '1984-11-18'),
+('BB-8', 'Droid', 2, 6, 5000.00, 'Y', '2014-01-01'),
+('Kylo Ren', 'Human', 2, 3, 2000000.00, 'N', '1989-12-18'),
+('Luke Skywalker', 'Human', NULL, 2, 150000.00, 'N', '1977-09-25');
+
+
+____________________________________________ 
+
+RESOURCES:
+
+💻Analyst Builder - https://www.analystbuilder.com/
+
+📖Take my Full MySQL Course Here: https://bit.ly/3tqOipr
+📖Take my Full Python Course Here: https://bit.ly/48O581R
+📖Practice Technical Interview Questions: https://bit.ly/46pDqqL
+
+Coursera Courses:
+Google Data Analyst Certification: https://coursera.pxf.io/5bBd62
+Data Analysis with Python - https://coursera.pxf.io/BXY3Wy
+IBM Data Analysis Specialization - https://coursera.pxf.io/AoYOdR
+Tableau Data Visualization - https://coursera.pxf.io/MXYqaN
+
+*Please note I may earn a small commission for any purchase through these links - Thanks for supporting the channel!*
+____________________________________________ 
+
+BECOME A MEMBER - 
+
+Want to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!
+
+https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join
+____________________________________________ 
+
+Websites: 
+💻Website: AlexTheAnalyst.com
+💾GitHub: https://github.com/AlexTheAnalyst
+📱Instagram: @Alex_The_Analyst
+____________________________________________
+
+*All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*</description>
+      <pubDate>Mon, 10 Aug 2026 13:00:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Love that colours every season🌈#Mazhavillaye #ytshorts #armaanmalik #dulquersalmaan #kayadulohar</title>
+      <link>https://www.youtube.com/shorts/26DuSjblp1g</link>
+      <description>Let “Mazhavillaye” take you through the colours of love, longing and heartfelt romance. 💕🎶
+
+Music Composed, Arranged and Produced by JAKES BEJOY
+Vocals : Armaan Malik 
+Lyrics : Sharfu 
+Music Producers : Jakes Bejoy, Agastya Rag 
+Additional Production: K C Balasarangan
+Backing Vocals: Akhil J Chand, Anila Rajeev, Ajmal Fathima Parveen, Akash B H,
+Akhil Dev, Amal C Ajith, Amitav Suresh, Christakala, Jerine Anna John, K C
+Balasarangan, Kanjana Sriram, Milan Joy, Riya Anna Roy, Soorya Shyam Gopal, Sony Mohan
+Guitars: Godfrey Immanuel
+Violin: Embar Kannan
+Strings: Cochin Strings 
+Percussion: Sandeep Venkitesh
+Bass: Napier Naveen
+Flute: Subin Jerson
+Vocals Arranged and Produced by: Akhil J Chand
+Session Arranged and Managed by Khalid Naj, Sajin Sam
+Mixed and Mastered by Balu Thankachan
+Assisted by Sreenivasa Sharma
+Project Manager: Adi Manvin
+Mindscore Manager: Don Vincent
+Vocals Edited by Soorya Shyam Gopal
+Additional Vocal Production: Athul Martin
+Recording Studios:
+Mindscore Studio, Cochin
+The Sanctuary Audio Visual Studio, Mumbai
+Pop Media House, Cochin
+MLounge, Cochin
+K7 Studios, CochinEngineered by Midhun Anand, Unmesh Unnikrishnan, Khalid Naj, Amey Londhe, Aniruddh Khanna, Jisto George, Amal Raj, Aswin Kumar
+Artist Co-ordination: K D Vincent, Don Vincent
+
+Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
+
+Director: Nahas Hidhayath
+Story: Nahas Hidhayath
+Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
+Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
+Director Of Photography: Jimshi Khalid
+Film Editor: Chaman Chakko
+Music &amp; Original Score: Jakes Bejoy
+Production Designer: Ajayan Chalissery
+Line Producer: Bibin Perumbilli
+Project Heads: Sujai James, Devadevan
+Sports Choreography: Robert Miller
+Costume: Mashar Hamsa
+Makeup: Ronex Xavier
+Choreography: Sandy
+Still Photographer: Sbk Shuhaib
+Sound Design: Studio Sync Cinema
+Sound Mixer: Kannan Ganpat
+VFX: Egg White VFX
+Chief Associate Director: Rohith Chandrasekhar
+Production Controller: Deepak Parameswaran
+Casting Director: Vivek Anirudh
+Publicity Design: Tenpoint
+PRO: Sabari
+Animations: Eunoians
+
+#Mazhavillaye #IAmGame #DulquerSalmaan #KayaduLohar #MalayalamSongs #MalayalamMusic #MalayalamLyrical #NewMalayalamSong #RomanticSong 
+
+Music on Zee Music Company
+
+Connect with us  - 
+https://www.youtube.com/c/zeemusicsouth
+https://www.facebook.com/zeemusicsouth
+https://twitter.com/zeemusicsouth
+https://www.snapchat.com/@zeemusicsouth
+https://www.instagram.com/zmcsouth</description>
+      <pubDate>Mon, 10 Aug 2026 13:00:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>🚨America Parliament VIRAL Video On INDIA🤯 | All Of Us Should See | Aye Jude✊🏼</title>
+      <link>https://www.youtube.com/watch?v=l_it-7zWuYg</link>
+      <description>Join this channel to get access to perks:
+https://www.youtube.com/channel/UCq9kaXFyF2b6oXQ5veWdvog/join
+
+#AyeJude #LatestNews #NewsExplained #NewsUpdates #BreakingNews #DailyNews #CurrentAffairs #IndiaNews #LatestUpdates #WhatHappened #DailyUpdates #Students #India #TrendingNews #NewsAnalysis #Explainer #Education #Youth #DailyUploads #viralnews</description>
+      <pubDate>Mon, 10 Aug 2026 12:27:04 -0000</pubDate>
+    </item>
+    <item>
+      <title>ఏం చేస్తే నువ్వే నను ప్రేమిస్తావేఏ యుద్ధం చేస్తే నాతోటి అడుగులు కలిపొస్తావే Vellamaake Lyrical live</title>
+      <link>https://www.youtube.com/shorts/q8omykYYrCM</link>
+      <description>Vellamaake Lyrical Video Song Link: https://youtu.be/Z9Q9yMkO50w 
+
+
+
+🎶 Presenting Vellamaake Lyrical Video Song from Srinivasa Mangapuram, featuring Jai krishna and Rasha Thadani.
+🎧 Composed by GV Prakash Kumar, Written &amp; Directed by Ajay Bhupathi this song brings a soulful blend of melody and emotion, capturing the essence of love and devotion.
+
+Srinivasa Mangapuram is an Intense Love Drama starring the debutants Jai Krishna Ghattamaneni, Rasha Thadani. The film is written &amp; Directed by Ajay Bhupathi. Produced by Gemini Kiran, under the Chandamama Kathalu Pictures banner. Presented by Ashwini Dutt and Music is composed by the National Award Winning Composer GV Prakash.
+
+✨ With beautiful lyrics and soothing music, Alelle Alelle is set to become a favorite among music lovers.
+
+ #Vellamaake #SrinivasaMangapuram #GVPrakashKumar
+------------------------------------------ 
+Connect with T-Series Telugu: 👉 http://bit.ly/SubscribeToTseriesTelugu
+------------------------------------------
+🎶 Music Slate 🎶
+Song Name:- Vellamaake
+Singers - Anurag Kulkarni
+Music Director- GV Prakash Kumar 
+Lyricist - Sreemani 
+
+Cast &amp; Crew Details:
+Cast : Jai Krishna Ghattamaneni, Rasha Thadani, Mohan Babu, Brahmaji and Others
+Crew :
+Writer &amp; Director - Ajay Bhupathi
+Presented by Ashwini Dutt
+Producers - Gemini Kiran
+Banner - Chandamama Kathalu Pictures
+Music - GV Prakash
+DOP - Jayakrishna Gummadi
+Editor - Madhav Kumar Gullapalli
+Art Director : Sahi Suresh
+PRO - Vamsi Shekar
+Digital Marketing - Haashtag Media
+
+Music Label: T-Series
+---------------------------
+Enjoy &amp; stay connected with us! 🎶
+
+👉 Subscribe to T-Series Telugu: http://bit.ly/SubscribeToTseriesTelugu
+👉 Like us on Facebook: http://www.facebook.com/Tseriestelugu
+👉 Follow us on Instagram: http://bit.ly/InstagramT-SeriesSouthOffical
+👉 Follow us on Twitter: http://bit.ly/TwitterT-SeriesSouthOffical
+👉 Follow us on WhatsApp: https://bit.ly/4cGF0YV
+👉 Follow us on Snapchat: https://bit.ly/4jpOwCC
+
+Thank you for watching our latest Telugu song 2026.
+If you enjoyed the song, please SUBSCRIBE to our channel and press the Bell icon 🔔 to receive instant updates on all our new releases.
+✨ We promise to bring you the best Telugu songs of all time — keep supporting us!</description>
+      <pubDate>Mon, 10 Aug 2026 12:12:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>చివరి అవకాశం!! Don’t Miss 💥🔥 #freedom #sale #laptop #best #gaming #coding #editing #besttv #offer</title>
+      <link>https://www.youtube.com/shorts/CQ5dwBu-ZWY</link>
+      <description>#freedom #laptop #best # Gaming #coding #student #besttv ##powerbank #washingmachine #offers #sale #dontmiss</description>
+      <pubDate>Mon, 10 Aug 2026 12:05:11 -0000</pubDate>
+    </item>
+    <item>
+      <title>Mazhavillaye - I'm Game | Dulquer Salmaan, Kayadu Lohar | Armaan Malik, Jakes Bejoy | Malayalam</title>
+      <link>https://www.youtube.com/watch?v=-s3TgBvo-vA</link>
+      <description>Let “Mazhavillaye” take you through the colours of love, longing and heartfelt romance. 💕🎶
+
+Music Composed, Arranged and Produced by JAKES BEJOY
+Vocals : Armaan Malik 
+Lyrics : Sharfu 
+Music Producers : Jakes Bejoy, Agastya Rag 
+Additional Production: K C Balasarangan
+Backing Vocals: Akhil J Chand, Anila Rajeev, Ajmal Fathima Parveen, Akash B H,
+Akhil Dev, Amal C Ajith, Amitav Suresh, Christakala, Jerine Anna John, K C
+Balasarangan, Kanjana Sriram, Milan Joy, Riya Anna Roy, Soorya Shyam Gopal, Sony Mohan
+Guitars: Godfrey Immanuel
+Violin: Embar Kannan
+Strings: Cochin Strings 
+Percussion: Sandeep Venkitesh
+Bass: Napier Naveen
+Flute: Subin Jerson
+Vocals Arranged and Produced by: Akhil J Chand
+Session Arranged and Managed by Khalid Naj, Sajin Sam
+Mixed and Mastered by Balu Thankachan
+Assisted by Sreenivasa Sharma
+Project Manager: Adi Manvin
+Mindscore Manager: Don Vincent
+Vocals Edited by Soorya Shyam Gopal
+Additional Vocal Production: Athul Martin
+Recording Studios:
+Mindscore Studio, Cochin
+The Sanctuary Audio Visual Studio, Mumbai
+Pop Media House, Cochin
+MLounge, Cochin
+K7 Studios, CochinEngineered by Midhun Anand, Unmesh Unnikrishnan, Khalid Naj, Amey Londhe, Aniruddh Khanna, Jisto George, Amal Raj, Aswin Kumar
+Artist Co-ordination: K D Vincent, Don Vincent
+
+Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
+
+Director: Nahas Hidhayath
+Story: Nahas Hidhayath
+Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
+Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
+Director Of Photography: Jimshi Khalid
+Film Editor: Chaman Chakko
+Music &amp; Original Score: Jakes Bejoy
+Production Designer: Ajayan Chalissery
+Line Producer: Bibin Perumbilli
+Project Heads: Sujai James, Devadevan
+Sports Choreography: Robert Miller
+Costume: Mashar Hamsa
+Makeup: Ronex Xavier
+Choreography: Sandy
+Still Photographer: Sbk Shuhaib
+Sound Design: Studio Sync Cinema
+Sound Mixer: Kannan Ganpat
+VFX: Egg White VFX
+Chief Associate Director: Rohith Chandrasekhar
+Production Controller: Deepak Parameswaran
+Casting Director: Vivek Anirudh
+Publicity Design: Tenpoint
+PRO: Sabari
+Animations: Eunoians
+
+#Mazhavillaye #IAmGame #DulquerSalmaan #KayaduLohar #MalayalamSongs #MalayalamMusic #MalayalamLyrical #NewMalayalamSong #RomanticSong 
+
+Music on Zee Music Company
+
+Connect with us  - 
+https://www.youtube.com/c/zeemusicsouth
+https://www.facebook.com/zeemusicsouth
+https://twitter.com/zeemusicsouth
+https://www.snapchat.com/@zeemusicsouth
+https://www.instagram.com/zmcsouth</description>
+      <pubDate>Mon, 10 Aug 2026 11:30:48 -0000</pubDate>
+    </item>
+    <item>
+      <title>Evare Nuvve - I'm Game | Dulquer Salmaan &amp; Kayadu Lohar | Armaan Malik, Jakes Bejoy, Sanare | Telugu</title>
+      <link>https://www.youtube.com/watch?v=3KZVttNhp-o</link>
+      <description>Presenting “Evare Nuvve” from I’m Game, a soulful melody that beautifully captures the essence of love and togetherness. Sung by Armaan Malik, with heartfelt lyrics by Sanare and mesmerizing music by Jakes Bejoy.
+
+Song: Evare Nuvve
+Music Composed, Arranged and Produced by Jakes Bejoy
+Vocals: Armaan Malik
+Lyrics: Sanare
+Music Producers: Jakes Bejoy, Agastya Raag
+Additional Production: K C Balasarangan
+Backing Vocals: Akhil J Chand, Anila Rajeev, Ajmal Fathima Parveen, Akash B H, Akhil Dev, Amal C Ajith, Amitav Suresh, Christakala, Jerine Anna John, K C Balasarangan, Milan Joy, Riya Anna Roy, Soorya Shyam Gopal, Sony Mohan
+Guitars: Godfrey Immanuel
+Violin: Embar Kannan
+Strings: Cochin Strings
+Percussion: Sandeep Venkitesh
+Bass: Napier Naveen
+Flute: Subin Jerson
+Vocals Arranged and Produced by: Akhil J Chand
+Session Arranged and Managed by: Khalid Naj, Sajin Sam
+Mixed and Mastered by: Balu Thankachan
+Assisted by: Sreenivasa Sharma
+Project Manager: Aadi Manvin
+Mindscore Manager: Don Vincent
+Vocals Edited by: Soorya Shyam Gopal
+Additional Vocal Production: Athul Martin
+Recording Studios: 
+Mindscore Studio, Cochin
+The Sanctuary Audio Visual Studio, Mumbai
+Pop Media House, Cochin
+MLounge, Cochin
+K7 Studios, Cochin
+Engineered by: Midhun Anand, Unmesh Unnikrishnan, Khalid Naj, Amey Londhe, Aniruddh Khanna, Jisto George, Amal Raj, Aswin Kumar
+Artist co-ordination: K D Vincent, Don Vincent
+
+Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
+Director: Nahas Hidhayath
+Story: Nahas Hidhayath
+Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
+Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
+Director Of Photography: Jimshi Khalid
+Film Editor: Chaman Chakko
+Music &amp; Original Score: Jakes Bejoy
+Production Designer: Ajayan Chalissery
+Line Producer: Bibin Perumbilli
+Project Heads: Sujai James, Devadevan
+Sports Choreography: Robert Miller
+Costume: Mashar Hamsa
+Makeup: Ronex Xavier
+Choreography: Sandy
+Still Photographer: Sbk Shuhaib
+Sound Design:Sync Cinema
+Sound Mixer: Kannan Ganpat
+VFX: Egg White VFX
+Chief Associate Director: Rohith Chandrasekhar
+Production Controller: Deepak Parameswaran
+Casting Director: Vivek Anirudh
+Publicity Design: Tenpoint
+PRO: Sabari
+Animations: Eunoians
+
+Telugu Dubbing Partner : Mysee Movies
+Project Supervision : Mufthash Maheen &amp; Suvarna Sunkari
+Dubbing Director : Prasanna Kumar
+
+Music on Zee Music Company
+
+Connect with us  - 
+https://www.youtube.com/c/zeemusicsouth
+https://www.facebook.com/zeemusicsouth
+https://twitter.com/zeemusicsouth
+https://www.snapchat.com/@zeemusicsouth
+https://www.instagram.com/zmcsouth</description>
+      <pubDate>Mon, 10 Aug 2026 11:30:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Arugey Arugey - I'm Game | Dulquer Salmaan, Kayadu Lohar | Armaan Malik, Jakes Bejoy, Vignesh| Tamil</title>
+      <link>https://www.youtube.com/watch?v=ubEBotsVatU</link>
+      <description>🎶 Presenting “Arugey Arugey” from I'm Game, beautifully sung by Armaan Malik, with lyrics by Vignesh Ramakrishna and music by Jakes Bejoy. ❤️🔥
+
+Music composed, arranged and produced by Jakes Bejoy
+Vocals: Armaan Malik
+Lyrics: Vignesh Ramakrishna
+Music producers: Jakes Bejoy, Agastya Raag
+Additional production: K C Balasarangan
+Backing vocals: Akhil J Chand, Anila Rajeev, Ajmal Fathima Parveen, Akash B H, Akhil Dev, Amal C Ajith, Amitav Suresh, Christakala, Jerine Anna John, K C Balasarangan, Milan Joy, Riya Anna Roy, Soorya Shyam Gopal, Sony Mohan
+Guitars: Godfrey Immanuel
+Violin: Embar Kannan
+Strings: Cochin Strings
+Percussion: Sandeep Venkitesh
+Bass: Napier Naveen
+Flute: Subin Jerson
+Vocals arranged and produced by: Akhil J Chand
+Session arranged and managed by: Khalid Naj, Sajin Sam
+Mixed and mastered by: Balu Thankachan
+Assisted by: Sreenivasa Sharma
+Project manager: Aadi Manvin
+Mindscore manager: Don Vincent
+Vocals edited by: Soorya Shyam Gopal
+Additional vocal production: Athul Martin
+Recording studios: Mindscore Studio, Cochin
+The Sanctuary Audio Visual Studio, Mumbai
+Pop Media House, Cochin
+MLounge, Cochin
+K7 Studios, Cochin
+Engineered by: Midhun Anand, Unmesh Unnikrishnan, Khalid Naj, Amey Londhe, Aniruddh Khanna, Jisto George, Amal Raj, Aswin Kumar
+Artist co-ordination: K D Vincent, Don Vincent
+
+Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
+
+Director: Nahas Hidhayath
+Produced by: Dulquer Salmaan &amp; Jom Varghese
+Story: Nahas Hidhayath
+Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
+Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
+Director Of Photography: Jimshi Khalid
+Film Editor: Chaman Chakko
+Music &amp; Original Score: Jakes Bejoy
+Production Designer: Ajayan Chalissery
+Line Producer: Bibin Perumbilli
+Project Heads: Sujai James, Devadevan
+Sports Choreography: Robert Miller
+Costume: Mashar Hamsa
+Makeup: Ronex Xavier
+Choreography: Sandy
+Still Photographer: Sbk Shuhaib
+Sound Design: Sync Cinema
+Sound Mixer: Kannan Ganpat
+VFX: Egg White VFX
+Chief Associate Director: Rohith Chandrasekhar
+Production Controller: Deepak Parameswaran
+Casting Director: Vivek Anirudh
+Publicity Design: Tenpoint
+PRO: Sabari
+Animations: Eunoians
+
+Tamil Dubbing Partner : Mysee Movies
+Project Supervision : Mufthash Maheen
+Dubbing Director : Rishikesh Kailasnath
+
+#Iamgame #ArugeyArugey #dulquersalmaan #kayadulohar #samyukthaviswanathan 
+
+Music on Zee Music Company
+
+Connect with us  - 
+https://www.youtube.com/c/zeemusicsouth
+https://www.facebook.com/zeemusicsouth
+https://twitter.com/zeemusicsouth
+https://www.snapchat.com/@zeemusicsouth
+https://www.instagram.com/zmcsouth</description>
+      <pubDate>Mon, 10 Aug 2026 11:30:09 -0000</pubDate>
+    </item>
+    <item>
+      <title>Malebillaagi - I'm Game | Dulquer Salmaan, Kayadu Lohar | Anirudh S, Jakes Bejoy, Hrudaya S| Kannada</title>
+      <link>https://www.youtube.com/watch?v=gm2pAyktm-I</link>
+      <description>❤️✨ Presenting “Malebillaagi” from I’m Game, a soulful melody that beautifully captures the essence of love and togetherness. Sung by Anirudh Suswaram, with heartfelt lyrics by Hrudaya Shiva and mesmerizing music by Jakes Bejoy. 🎶🔥
+
+Music Composed, Arranged And Produced By Jakes Bejoy 
+Vocals: Anirudh Suswaram 
+Lyrics: Hrudaya Shiva 
+Music Producers: Jakes Bejoy, Agastya Raag 
+Additional Production: K C Balasarangan 
+Backing Vocals: Akhil J Chand, Anila Rajeev, Ajmal Fathima Parveen, Akash B H, Akhil Dev, Amal C Ajith, Amitav Suresh, Christakala, Jerine Anna John, K C Balasarangan, Milan Joy, Riya Anna Roy, Soorya Shyam Gopal, Sony Mohan 
+Guitars: Godfrey Immanuel 
+Violin: Embar Kannan 
+Strings: Cochin Strings 
+Percussion: Sandeep Venkitesh 
+Bass: Napier Naveen 
+Flute: Subin Jerson  
+Vocals Arranged And Produced By: Akhil J Chand 
+Session Arranged And Managed By Khalid Naj, Sajin Sam 
+Mixed And Mastered By Balu Thankachan  
+Assisted By Sreenivasa Sharma  
+Project Manager: Aadi Manvin Mindscore 
+Manager: Don Vincent 
+Vocals Edited By Soorya Shyam Gopal 
+Additional Vocal Production: Athul Martin 
+
+Recording Studios: 
+Mindscore Studio, Cochin 
+Pop Media House, Cochin  
+Mlounge, Cochin 
+K7 Studios, Cochin  
+Raaga Sudha Studio, Kurnool  
+Engineered By Midhun Anand, Unmesh Unnikrishnan, Khalid Naj, Jisto George, Amal Raj, Aswin Kumar, Karanam Pramod Kumar  
+Artist Co-Ordination: K D Vincent, Don Vincent 
+
+Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
+
+Director: Nahas Hidhayath
+Story: Nahas Hidhayath
+Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
+Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
+Director Of Photography: Jimshi Khalid
+Film Editor: Chaman Chakko
+Production Designer: Ajayan Chalissery
+Line Producer: Bibin Perumbilli
+Project Heads: Sujai James, Devadevan
+Sports Choreography: Robert Miller
+Costume: Mashar Hamsa
+Makeup: Ronex Xavier
+Choreography: Sandy
+Still Photographer: Sbk Shuhaib
+Sound Design: Sync Cinema
+Sound Mixer: Kannan Ganpat
+VFX: Egg White VFX
+Chief Associate Director: Rohith Chandrasekhar
+Production Controller: Deepak Parameswaran
+Casting Director: Vivek Anirudh
+Publicity Design: Tenpoint
+PRO: Sabari
+Animations: Eunoians
+
+Kannada Dubbing Partner : Mysee Movies
+Project Supervision : Mufthash Maheen
+Dubbing Director : Vybhav M
+
+
+Music on Zee Music Company
+
+Connect with us  - 
+https://www.youtube.com/c/zeemusicsouth
+https://www.facebook.com/zeemusicsouth
+https://twitter.com/zeemusicsouth
+https://www.snapchat.com/@zeemusicsouth
+https://www.instagram.com/zmcsouth</description>
+      <pubDate>Mon, 10 Aug 2026 11:30:03 -0000</pubDate>
+    </item>
+    <item>
+      <title>Bappanadu DurgaParameshwari Temple #devi #shravan #varamahalakshmi</title>
+      <link>https://www.youtube.com/shorts/nUOdVNVqdqM</link>
+      <description/>
+      <pubDate>Mon, 10 Aug 2026 11:29:37 -0000</pubDate>
+    </item>
+    <item>
+      <title>Salary Bill Is a Burden? Then Why More Recruitment? APJAC chief Bopparaju Asks AP Govt</title>
+      <link>https://www.youtube.com/watch?v=SsB6Vq4CEC0</link>
+      <description>Comments are welcome, but are expected to be respectful. వీడియోల మీద విమర్శనాత్మక కామెంట్లకి  ఆహ్వానం. అశ్లీల పదాలు, వ్యక్తిగత దాడులు నిషిద్ధం. 
+
+About:
+I am a journalist with decades of experience across the media spectrum. This current affairs channel is my take on various socio-political, economic and cultural developments in the country, with a focus on Telugu states. I hope to bring out indepth, well-informed and unbiased viewpoints on the developing issues. This channel is an independent media entity without fear or favour. 
+Please do subscribe, like &amp; share the channel to encourage independent journalism. 
+
+Twitter: @iamkandula   FB: @Ramesh Kandula
+https://rameshkandula.substack.com/
+
+దేశంలో, మరీ ముఖ్యంగా తెలుగు రాష్ట్రాల్లో, జరుగుతున్న రాజకీయ, సామాజిక, ఆర్థిక, సాంస్కృతిక పరిణామాల మీద విశ్లేషణను అందించే ప్రయత్నం ఈ చానెల్. లోతైన, అర్థవంతమైన, పక్షపాత రహిత వ్యాఖ్యానాలు అందించడం ఛానెల్ ప్రధానోద్దేశం. ఏ ఒక్క రాజకీయ భావజాలాన్ని, రాజకీయ పార్టీని నెత్తిన పెట్టుకోకుండా, స్వతంత్ర భావాలతో వ్యవహరించే ఈ ఛానెల్ ను సబ్ స్క్రైబ్ చేసి, ప్రోత్సహించండి.
+
+My books: i) Maverick Messiah -  A Political Biography of N.T. Rama Rao, and ii) Amaravati Vivadalu-Vastavalu (Telugu). Both available on www.amazon.in</description>
+      <pubDate>Mon, 10 Aug 2026 11:23:28 -0000</pubDate>
+    </item>
+    <item>
       <title>Tollywood Divine &amp; Spiritual Melodies Musical Playlist | Bhairavam Theme | Shankara | Sri-Kala-Hasti</title>
       <link>https://www.youtube.com/watch?v=bC4Na-uDvhU</link>
       <description>🙏🎶 Immerse yourself in the divine world of Tollywood with this soulful Spiritual &amp; Devotional Musical Playlist!
@@ -2990,40 +3528,6 @@ Thank you for watching our latest Telugu song 2026.
 If you enjoyed the song, please SUBSCRIBE to our channel and press the Bell icon 🔔 to receive instant updates on all our new releases.
 ✨ We promise to bring you the best Telugu songs of all time — keep supporting us!</description>
       <pubDate>Fri, 07 Aug 2026 13:29:38 -0000</pubDate>
-    </item>
-    <item>
-      <title>Wrath Of Bhairava Audio | Korean Kanakaraju | Varun Tej | Thaman S | Merlapaka Gandhi</title>
-      <link>https://www.youtube.com/watch?v=CtB3z-4OZlQ</link>
-      <description>T-Series Telugu presents  Wrath Of Bhairava Audio Song from Korean Kanakaraju New Telugu Movie starring Varun Tej,Rithika Nayak Music Director by Thaman S.
-
-#KoreanKanakaraju #VarunTej #RithikaNayak #ThamanS #MerlapakaGandhi #TeluguSongs #TeluguMusic #AudioJukebox
-#Tollywood #TSeriesTelugu
------------------------------------------- 
-Connect with T-Series Telugu: 👉 http://bit.ly/SubscribeToTseriesTelugu
-------------------------------------------
-🎶 Music Slate 🎶
-Song: Wrath Of Bhairava
-Album/Movie: Korean Kanakaraju
-Artist Name: Varun Tej,Rithika Nayak
-Singer: Thaman S
-Music Director: Thaman S
-Lyricist: Adviteeya Vojjala
-
-Music Label: T-Series
----------------------------
-Enjoy &amp; stay connected with us! 🎶
-
-👉 Subscribe to T-Series Telugu: http://bit.ly/SubscribeToTseriesTelugu
-👉 Like us on Facebook: http://www.facebook.com/Tseriestelugu
-👉 Follow us on Instagram: http://bit.ly/InstagramT-SeriesSouthOffical
-👉 Follow us on Twitter: http://bit.ly/TwitterT-SeriesSouthOffical
-👉 Follow us on WhatsApp: https://bit.ly/4cGF0YV
-👉 Follow us on Snapchat: https://bit.ly/4jpOwCC
-
-Thank you for watching our latest Telugu song 2026.
-If you enjoyed the song, please SUBSCRIBE to our channel and press the Bell icon 🔔 to receive instant updates on all our new releases.
-✨ We promise to bring you the best Telugu songs of all time — keep supporting us!</description>
-      <pubDate>Fri, 07 Aug 2026 13:29:33 -0000</pubDate>
     </item>
     <item>
       <title>Forget PS5, This Budget Console Will Run GTA 6 on Day One!</title>
@@ -7335,267 +7839,6 @@ Stock assets: Getty Images
       <pubDate>Fri, 31 Jul 2026 12:56:22 -0000</pubDate>
     </item>
     <item>
-      <title>I'M GAME - Trailer (Malayalam) | Dulquer Salmaan, Kayadu Lohar | Samyuktha | Nahas Hidhayath</title>
-      <link>https://www.youtube.com/watch?v=feK_OVwbrqk</link>
-      <description>Presenting the Official Trailer of &quot; I'M GAME &quot; directed by Nahas Hidhayath
-
-Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
-
-Director: Nahas Hidhayath
-Story: Nahas Hidhayath
-Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
-Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
-Director Of Photography: Jimshi Khalid
-Film Editor: Chaman Chakko
-Music &amp; Original Score: Jakes Bejoy
-Production Designer: Ajayan Chalissery
-Line Producer: Bibin Perumbilli
-Project Heads: Sujai James, Devadevan
-Sports Choreography: Robert Miller
-Costume: Mashar Hamsa
-Makeup: Ronex Xavier
-Choreography: Sandy
-Still Photographer: Sbk Shuhaib
-Sound Design: Studio Sync Cinema
-Sound Mixer: Kannan Ganpat
-VFX: Egg White VFX
-Chief Associate Director: Rohith Chandrasekhar
-Production Controller: Deepak Parameswaran
-Casting Director: Vivek Anirudh
-Publicity Design: Tenpoint
-PRO: Sabari
-Animations: Eunoians
-Trailer Music Updated Credits:
-Music Composed, Arranged &amp; Produced By: Jakes Bejoy
-Vocals: Baby Jean, Zeba Tommy
-Lyrics: Zeba Tommy
-Music Production Team: Jakes Bejoy, Agastya Raag, Aby Tom Cyriac, Prakash Alex,
-Hubertmaran, Andrew Gerlicher
-Backing Vocals: Surya Shyam Gopal, Milan Joy, Akash V H, Amal C Ajith
-Drums: Siddharth Nagarajan
-Trumpet: Trumpet Babu
-Strings: Cochin Strings
-Session Arranged And Managed By: Khalid Naj, Sajin Sam
-BGM Mixed And Mastered By: Midhun Anand
-Assisted By: Unmesh Unnikrishnan
-Chief Associate: Akhil J Chand
-Project Manager: Aadi Manvin
-Mindscore Manager: Don Vincent
-Recording Studios: Mindscore Studio, Cochin; MLounge, Cochin; Vanaj Kesav, Chennai
-Engineered By: Midhun Anand, Unmesh Unnikrishnan, Sajin Sam, Amal Raj, Senthil Kumar
-Artist Co-Ordination: K D Vincent, Don Vincent
-
-#ImGame #DulquerSalmaan #NahasHidhayath #MalayalamMovie #MalayalamTrailer #OfficialTrailer #ZeeMusicSouth #DQ #Mollywood #MalayalamCinema #NewMovieTrailer #ActionThriller #IndianCinema #MovieTrailer #TrendingNow
-
-Music on Zee Music Company
-
-Connect with us  - 
-https://www.youtube.com/c/zeemusicsouth
-https://www.facebook.com/zeemusicsouth
-https://twitter.com/zeemusicsouth
-https://www.snapchat.com/@zeemusicsouth
-https://www.instagram.com/zmcsouth</description>
-      <pubDate>Fri, 31 Jul 2026 12:30:47 -0000</pubDate>
-    </item>
-    <item>
-      <title>I'M GAME - Official Trailer (Tamil) | Dulquer Salmaan | Kayadu Lohar | Samyuktha | Nahas Hidhayath</title>
-      <link>https://www.youtube.com/watch?v=JJnEU0bZyto</link>
-      <description>Presenting the Official Trailer Tamil of &quot; I'M GAME &quot; directed by Nahas Hidhayath
-
-Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
-Director: Nahas Hidhayath
-Story: Nahas Hidhayath
-Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
-Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
-Director Of Photography: Jimshi Khalid
-Film Editor: Chaman Chakko
-Music &amp; Original Score: Jakes Bejoy
-Production Designer: Ajayan Chalissery
-Line Producer: Bibin Perumbilli
-Project Heads: Sujai James, Devadevan
-Sports Choreography: Robert Miller
-Costume: Mashar Hamsa
-Makeup: Ronex Xavier
-Choreography: Sandy
-Still Photographer: Sbk Shuhaib
-Sound Design: Sync Cinema
-Sound Mixer: Kannan Ganpat
-VFX: Egg White VFX
-Chief Associate Director: Rohith Chandrasekhar
-Production Controller: Deepak Parameswaran
-Casting Director: Vivek Anirudh
-Publicity Design: Tenpoint
-PRO: Sabari
-Animations: Eunoians
-Tamil Dubbing Partner : Mysee Movies
-Project Supervision : Mufthash Maheen
-Dubbing Director : Rishikesh Kailasnath
-Trailer Music Updated Credits:
-Music Composed, Arranged &amp; Produced By: Jakes Bejoy
-Vocals: Baby Jean, Zeba Tommy
-Lyrics: Zeba Tommy
-Music Production Team: Jakes Bejoy, Agastya Raag, Aby Tom Cyriac, Prakash Alex,
-Hubertmaran, Andrew Gerlicher
-Backing Vocals: Surya Shyam Gopal, Milan Joy, Akash V H, Amal C Ajith
-Drums: Siddharth Nagarajan
-Trumpet: Trumpet Babu
-Strings: Cochin Strings
-Session Arranged And Managed By: Khalid Naj, Sajin Sam
-BGM Mixed And Mastered By: Midhun Anand
-Assisted By: Unmesh Unnikrishnan
-Chief Associate: Akhil J Chand
-Project Manager: Aadi Manvin
-Mindscore Manager: Don Vincent
-Recording Studios: Mindscore Studio, Cochin; MLounge, Cochin; Vanaj Kesav, Chennai
-Engineered By: Midhun Anand, Unmesh Unnikrishnan, Sajin Sam, Amal Raj, Senthil Kumar
-Artist Co-Ordination: K D Vincent, Don Vincent
-
-#Iamgame #dulquersalmaan #kayadulohar #samyukthaviswanathan 
-
-Music on Zee Music Company
-
-Connect with us  - 
-https://www.youtube.com/c/zeemusicsouth
-https://www.facebook.com/zeemusicsouth
-https://twitter.com/zeemusicsouth
-https://www.snapchat.com/@zeemusicsouth
-https://www.instagram.com/zmcsouth</description>
-      <pubDate>Fri, 31 Jul 2026 12:30:34 -0000</pubDate>
-    </item>
-    <item>
-      <title>I'M GAME - Official Trailer (Telugu) | Dulquer Salmaan | Kayadu Lohar | Samyuktha | Nahas Hidhayath</title>
-      <link>https://www.youtube.com/watch?v=4x_Jqt02PJ4</link>
-      <description>Presenting the Official Trailer Telugu of &quot; I'M GAME &quot; directed by Nahas Hidhayath
-
-Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
-
-Director: Nahas Hidhayath
-Story: Nahas Hidhayath
-Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
-Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
-Director Of Photography: Jimshi Khalid
-Film Editor: Chaman Chakko
-Music &amp; Original Score: Jakes Bejoy
-Production Designer: Ajayan Chalissery
-Line Producer: Bibin Perumbilli
-Project Heads: Sujai James, Devadevan
-Sports Choreography: Robert Miller
-Costume: Mashar Hamsa
-Makeup: Ronex Xavier
-Choreography: Sandy
-Still Photographer: Sbk Shuhaib
-Sound Design:Sync Cinema
-Sound Mixer: Kannan Ganpat
-VFX: Egg White VFX
-Chief Associate Director: Rohith Chandrasekhar
-Production Controller: Deepak Parameswaran
-Casting Director: Vivek Anirudh
-Publicity Design: Tenpoint
-PRO: Sabari
-Animations: Eunoians
-
-Telugu Dubbing Partner : Mysee Movies
-Project Supervision : Mufthash Maheen &amp; Suvarna Sunkari
-Dubbing Director : Prasanna Kumar
-
-
-Trailer Music Updated Credits:
-
-Music Composed, Arranged &amp; Produced By: Jakes Bejoy
-Vocals: Baby Jean, Zeba Tommy
-Lyrics: Zeba Tommy
-Music Production Team: Jakes Bejoy, Agastya Raag, Aby Tom Cyriac, Prakash Alex, Hubertmaran, Andrew Gerlicher
-Backing Vocals: Surya Shyam Gopal, Milan Joy, Akash V H, Amal C Ajith
-Drums: Siddharth Nagarajan
-Trumpet: Trumpet Babu
-Strings: Cochin Strings
-Session Arranged And Managed By: Khalid Naj, Sajin Sam
-BGM Mixed And Mastered By: Midhun Anand
-Assisted By: Unmesh Unnikrishnan
-Chief Associate: Akhil J Chand
-Project Manager: Aadi Manvin
-Mindscore Manager: Don Vincent
-Recording Studios: Mindscore Studio, Cochin; MLounge, Cochin; Vanaj Kesav, Chennai
-Engineered By: Midhun Anand, Unmesh Unnikrishnan, Sajin Sam, A
-
-
-Music on Zee Music Company
-
-Connect with us  - 
-https://www.youtube.com/c/zeemusicsouth
-https://www.facebook.com/zeemusicsouth
-https://twitter.com/zeemusicsouth
-https://www.snapchat.com/@zeemusicsouth
-https://www.instagram.com/zmcsouth</description>
-      <pubDate>Fri, 31 Jul 2026 12:30:32 -0000</pubDate>
-    </item>
-    <item>
-      <title>I'M GAME - Trailer (Kannada) | Dulquer Salmaan, Kayadu Lohar | Samyuktha | Nahas Hidhayath</title>
-      <link>https://www.youtube.com/watch?v=dNOqWW1wPuQ</link>
-      <description>Presenting the Official Trailer Kannada of &quot;I'M GAME&quot; directed by Nahas Hidhayath
-
-Starring: Dulquer Salmaan, Kayadu Lohar, Mysskin, Antony Varghese, Samyuktha Viswanathan, Vinay Forrt, Kathir
-
-Director: Nahas Hidhayath
-Story: Nahas Hidhayath
-Screenplay: Sajeer Baba, Bilal Moidu, Ismail Aboobacker
-Dialogues: Adarsh Sukumaran, Shabas Rasheed, Sajeer Baba
-Director Of Photography: Jimshi Khalid
-Film Editor: Chaman Chakko
-Music &amp; Original Score: Jakes Bejoy
-Production Designer: Ajayan Chalissery
-Line Producer: Bibin Perumbilli
-Project Heads: Sujai James, Devadevan
-Sports Choreography: Robert Miller
-Costume: Mashar Hamsa
-Makeup: Ronex Xavier
-Choreography: Sandy
-Still Photographer: Sbk Shuhaib
-Sound Design: Sync Cinema
-Sound Mixer: Kannan Ganpat
-VFX: Egg White VFX
-Chief Associate Director: Rohith Chandrasekhar
-Production Controller: Deepak Parameswaran
-Casting Director: Vivek Anirudh
-Publicity Design: Tenpoint
-PRO: Sabari
-Animations: Eunoians
-Kannada Dubbing Partner : Mysee Movies
-Project Supervision : Mufthash Maheen
-Dubbing Director : Vybhav M
-Trailer Music Updated Credits:
-Music Composed, Arranged &amp; Produced By: Jakes Bejoy
-Vocals: Baby Jean, Zeba Tommy
-Lyrics: Zeba Tommy
-Music Production Team: Jakes Bejoy, Agastya Raag, Aby Tom Cyriac, Prakash Alex,
-Hubertmaran, Andrew Gerlicher
-Backing Vocals: Surya Shyam Gopal, Milan Joy, Akash V H, Amal C Ajith
-Drums: Siddharth Nagarajan
-Trumpet: Trumpet Babu
-Strings: Cochin Strings
-Session Arranged And Managed By: Khalid Naj, Sajin Sam
-BGM Mixed And Mastered By: Midhun Anand
-Assisted By: Unmesh Unnikrishnan
-Chief Associate: Akhil J Chand
-Project Manager: Aadi Manvin
-Mindscore Manager: Don Vincent
-Recording Studios: Mindscore Studio, Cochin; MLounge, Cochin; Vanaj Kesav, Chennai
-Engineered By: Midhun Anand, Unmesh Unnikrishnan, Sajin Sam, Amal Raj, Senthil Kumar
-Artist Co-Ordination: K D Vincent, Don Vincent
-
-#ImGame #DulquerSalmaan #KannadaTrailer #OfficialTrailer #KayaduLohar #Samyuktha #NahasHidhayath #ImGameTrailer #KannadaMovies #UpcomingKannadaMovie #ActionThriller #MovieTrailer
-
-Music on Zee Music Company
-
-Connect with us  - 
-https://www.youtube.com/c/zeemusicsouth
-https://www.facebook.com/zeemusicsouth
-https://twitter.com/zeemusicsouth
-https://www.snapchat.com/@zeemusicsouth
-https://www.instagram.com/zmcsouth</description>
-      <pubDate>Fri, 31 Jul 2026 12:30:15 -0000</pubDate>
-    </item>
-    <item>
       <title>Sai Krishna Case Sees Another Dramatic Twist in AP High Court</title>
       <link>https://www.youtube.com/watch?v=RoFnCNZadRI</link>
       <description>Comments are welcome, but are expected to be respectful. వీడియోల మీద విమర్శనాత్మక కామెంట్లకి  ఆహ్వానం. అశ్లీల పదాలు, వ్యక్తిగత దాడులు నిషిద్ధం. 
@@ -7633,37 +7876,6 @@ My 5 favourite pieces of Tech right now (Not sponsored but these are affiliate l
 Music is from Epidemic sound:
 http://share.epidemicsound.com/pHDFT</description>
       <pubDate>Fri, 31 Jul 2026 10:48:54 -0000</pubDate>
-    </item>
-    <item>
-      <title>Niram - Telugu | Movie Trailer | Mugen Rao &amp; Preethi Asrani | Balaram Krishna | Zee Music South</title>
-      <link>https://www.youtube.com/watch?v=40Lw14xqSLY</link>
-      <description>Presenting the official trailer of Niram - Telugu
-
-Cast - Mugen Rao, Preethi Asrani, Tanya Hope, Nitin Sathyaa, Surekha Vani, Sreejith Ravi, Anbu Mayilsamy, Thirunavukarasu, Ghajaraj, Sneha Gupta
-
-Technicians:
-Director : Balaram Krishna
-Producer : K Bindumadhavi
-Co Producer : P Rajesh
-Music Composer : D. Imman
-Dop : Santonio Terzio Editor - Sabu Joseph
-Lyricists : Vanamali &amp; Bharathi Babu
-Singers : Pravasthi, Srinisha Jayaseelan
-Choreographers : Sai Barathi &amp; Shankar
-Sound mixing : Uday Kumar
-Designs : Tuney John
-PRO : Suresh SK Media 
-
-#NIRAM #NiramTrailer #MugenRao #PreethiAsrani #TeluguMovieTrailer #TeluguCinema #ThrillerDrama #Tollywood #zeemusicsouth 
-
-Music on Zee Music Company
-
-Connect with us  - 
-https://www.youtube.com/c/zeemusicsouth
-https://www.facebook.com/zeemusicsouth
-https://twitter.com/zeemusicsouth
-https://www.snapchat.com/@zeemusicsouth</description>
-      <pubDate>Fri, 31 Jul 2026 10:30:21 -0000</pubDate>
     </item>
     <item>
       <title>Notion: High Contrast Mode</title>
@@ -7957,23 +8169,6 @@ Ee health awareness and medical facts gurinchi mee opinion enti? Comment your th
 
 #VRRaja #HealthAwareness #KarnatakaNews #HIVFacts #MedicalEducation #TeluguFacts</description>
       <pubDate>Thu, 30 Jul 2026 13:48:17 -0000</pubDate>
-    </item>
-    <item>
-      <title>After Opposing Bhogapuram Airport, Jagan Now Seeks Credit for the Project</title>
-      <link>https://www.youtube.com/watch?v=J9mMlSrdHbM</link>
-      <description>Comments are welcome, but are expected to be respectful. వీడియోల మీద విమర్శనాత్మక కామెంట్లకి  ఆహ్వానం. అశ్లీల పదాలు, వ్యక్తిగత దాడులు నిషిద్ధం. 
-
-About:
-I am a journalist with decades of experience across the media spectrum. This current affairs channel is my take on various socio-political, economic and cultural developments in the country, with a focus on Telugu states. I hope to bring out indepth, well-informed and unbiased viewpoints on the developing issues. This channel is an independent media entity without fear or favour. 
-Please do subscribe, like &amp; share the channel to encourage independent journalism. 
-
-Twitter: @iamkandula   FB: @Ramesh Kandula
-https://rameshkandula.substack.com/
-
-దేశంలో, మరీ ముఖ్యంగా తెలుగు రాష్ట్రాల్లో, జరుగుతున్న రాజకీయ, సామాజిక, ఆర్థిక, సాంస్కృతిక పరిణామాల మీద విశ్లేషణను అందించే ప్రయత్నం ఈ చానెల్. లోతైన, అర్థవంతమైన, పక్షపాత రహిత వ్యాఖ్యానాలు అందించడం ఛానెల్ ప్రధానోద్దేశం. ఏ ఒక్క రాజకీయ భావజాలాన్ని, రాజకీయ పార్టీని నెత్తిన పెట్టుకోకుండా, స్వతంత్ర భావాలతో వ్యవహరించే ఈ ఛానెల్ ను సబ్ స్క్రైబ్ చేసి, ప్రోత్సహించండి.
-
-My books: i) Maverick Messiah -  A Political Biography of N.T. Rama Rao, and ii) Amaravati Vivadalu-Vastavalu (Telugu). Both available on www.amazon.in</description>
-      <pubDate>Thu, 30 Jul 2026 13:34:56 -0000</pubDate>
     </item>
     <item>
       <title>Your Claude Chats are not Private</title>
@@ -8900,17 +9095,6 @@ Twitter: https://twitter.com/the99mmtweets?t=c...
       <pubDate>Sun, 26 Jul 2026 15:00:06 -0000</pubDate>
     </item>
     <item>
-      <title>🚨YS Jagan Demands Modi : 🖊️📃LOKESH MUST RESIGN ! WHY ?❓ | Aye Jude✊🏼</title>
-      <link>https://www.youtube.com/watch?v=o0Hl0SigzOY</link>
-      <description>Join this channel to get access to perks:
-https://www.youtube.com/channel/UCq9kaXFyF2b6oXQ5veWdvog/join
-
-Title : 🚨YS Jagan Asks Modi : 🖊️📃LOKESH MUST RESIGN ! WHY ?❓ | Aye Jude✊🏼
-
-#AyeJude #LatestNews #NewsExplained #NewsUpdates #BreakingNews #DailyNews #CurrentAffairs #IndiaNews #LatestUpdates #WhatHappened #DailyUpdates #Students #India #TrendingNews #NewsAnalysis #Explainer #Education #Youth #DailyUploads #viralnews</description>
-      <pubDate>Sun, 26 Jul 2026 12:16:34 -0000</pubDate>
-    </item>
-    <item>
       <title>💯 Nee Best Ichava? | #telugupodcast #motivation #success #mindset #reality #lifelessons</title>
       <link>https://www.youtube.com/shorts/XheMTXCGvRw</link>
       <description>Success doesn't always come immediately, but giving your 100% effort is always in your control. 💯 Stay disciplined, work consistently, and never let fear stop you from giving your best. The results may take time, but your effort will never go to waste.
@@ -9039,6 +9223,12 @@ Twitter: https://twitter.com/the99mmtweets?t=c...
       <pubDate>Sat, 25 Jul 2026 16:00:14 -0000</pubDate>
     </item>
     <item>
+      <title>Agent Kim Reactivated S01E10 720p HEVC x265-MeGusta</title>
+      <link>magnet:?xt=urn:btih:AB1127D2E128D49C6F9060F5D20484E62F9A56EB&amp;dn=Agent+Kim+Reactivated+S01E10+720p+HEVC+x265-MeGusta&amp;tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&amp;tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce</link>
+      <description>New Episode: Agent Kim Reactivated S01E10 720p HEVC x265-MeGusta</description>
+      <pubDate>Sat, 25 Jul 2026 15:30:57 -0000</pubDate>
+    </item>
+    <item>
       <title>Retrieval-Augmented Generation (RAG) In 2 MInutes!</title>
       <link>https://www.youtube.com/shorts/egv-CcolJZQ</link>
       <description>Vishakha Sadhwani: Retrieval-Augmented Generation (RAG) In 2 MInutes!
@@ -9089,6 +9279,12 @@ vishakha sadhwani,cloud computing,learn to code,rag,what is rag in ai,retrieval 
 #️⃣ HASHTAGS
 #ai #devops #llm</description>
       <pubDate>Sat, 25 Jul 2026 15:21:14 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E10 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:ab1127d2e128d49c6f9060f5d20484e62f9a56eb&amp;dn=Agent.Kim.Reactivated.S01E10.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Agent Kim Reactivated S01E10 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Sat, 25 Jul 2026 15:00:13 -0000</pubDate>
     </item>
     <item>
       <title>🚨BREAKING  Dharmendra Pradhan RESIGNED | SHOCKING Reality Inside NTA Exposed | VR Raja Explains</title>
@@ -11116,77 +11312,6 @@ Copyright FUNKY TIME PRODUCTIONS 2026</description>
       <pubDate>Wed, 15 Jul 2026 16:30:17 -0000</pubDate>
     </item>
     <item>
-      <title>OPPO Find X9s Unboxing &amp; Quick Review in Telugu</title>
-      <link>https://www.youtube.com/watch?v=cJqZJOFxprQ</link>
-      <description>OPPO Find X9s Unboxing &amp; Quick Review in Telugu !
-
-Buy OPPO Find X9s:
-Amazon: https://link.amazon/B03jpJWz7
-
-Flipkart: 
-
-ఈ వీడియోలో కొత్త OPPO Find X9s smartphoneని unbox చేసి, దీని design, display, performance, cameras, battery, charging, software features మరియు initial impressions గురించి వివరంగా మాట్లాడాము.
-
-OPPO Find X9sలో MediaTek Dimensity 9500s flagship processor, 120Hz AMOLED display, Hasselblad-tuned 50MP triple rear camera system, 3x periscope telephoto camera, 7025mAh silicon-carbon battery మరియు 80W SUPERVOOC fast charging ఉన్నాయి.
-
-ఈ వీడియోలో ముఖ్యంగా:
-
-✅ OPPO Find X9s Box Contents
-✅ Design, Build Quality &amp; In-hand Feel
-✅ 120Hz AMOLED Display Quality
-✅ Dimensity 9500s Performance
-✅ Gaming &amp; Heating Initial Test
-✅ Hasselblad Camera Features
-✅ Main, Ultra-wide &amp; 3x Telephoto Cameras
-✅ Portraits, Zoom &amp; Video Quality
-✅ 7025mAh Battery Performance
-✅ 80W SUPERVOOC Charging
-✅ ColorOS 16 &amp; AI Features
-✅ Speakers, Haptics &amp; Fingerprint Sensor
-✅ OPPO Find X9s Pros and Cons
-✅ ₹79,999 Priceకి Worth Buying or Not?
-
-OPPO Find X9s India Price:
-
-12GB RAM + 256GB Storage – ₹79,999
-12GB RAM + 512GB Storage – ₹89,999
-
-మీకు OPPO Find X9s ఎలా అనిపించింది? ఈ price rangeలో మీరు ఈ phoneని కొనుగోలు చేస్తారా లేదా Samsung, Apple, OnePlus, vivo alternatives వైపు వెళ్తారా? Comment చేయండి.
-
-Video నచ్చితే Like చేయండి, మీ friendsతో Share చేయండి మరియు మరిన్ని Telugu Tech Videos కోసం Channelని Subscribe చేసుకోండి.
-
-
-besttechintelugu amazon Store : https://www.amazon.in/shop/besttechintelugu
-
-Join Our  Telegram Channel : https://telegram.me/besttechintelugu
-
-Follow the  best tech in telugu WhatsApp channel : https://whatsapp.com/channel/0029Vb1c9XJDOQIbwi7SlW2B
-
-
-Follow the besttechintelugu Instagram : https://www.instagram.com/besttechintelugu/
-
-Twitter :  https://twitter.com/besttechtelugu
-
-Facebook : https://www.facebook.com/besttechintelugu
-
-—————————
-
-Follow My Personal Accounts :
-
-Twitter : https://twitter.com/kanthudon
-
-
-
-
-
-Instagram : https://www.instagram.com/kanthudevarakonda
-
-—————————————————————————————————————————————
-
-#besttechintelugu #techintelugu #besttech #kanthudevarakonda</description>
-      <pubDate>Wed, 15 Jul 2026 12:33:09 -0000</pubDate>
-    </item>
-    <item>
       <title>TV Review: ‘Lucky’</title>
       <link>https://www.moviefone.com/news/tv-review-lucky/</link>
       <description>The new crime thriller miniseries ‘Lucky’, which is based on the book of the same name by Marissa Stapley and was created by Jonathan Tropper (‘The Wrecking Crew’), premieres on Apple TV July 15th.</description>
@@ -11694,6 +11819,18 @@ Credits to the respective creators and meme pages. If any credit is missing, ple
       <pubDate>Sat, 11 Jul 2026 16:14:39 -0000</pubDate>
     </item>
     <item>
+      <title>Agent Kim Reactivated S01E06 720p HEVC x265-MeGusta</title>
+      <link>magnet:?xt=urn:btih:6B0B32386A2C299CC8139A16CD17D618B5E514A8&amp;dn=Agent+Kim+Reactivated+S01E06+720p+HEVC+x265-MeGusta&amp;tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&amp;tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce</link>
+      <description>New Episode: Agent Kim Reactivated S01E06 720p HEVC x265-MeGusta</description>
+      <pubDate>Sat, 11 Jul 2026 15:09:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E06 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:6b0b32386a2c299cc8139a16cd17d618b5e514a8&amp;dn=Agent.Kim.Reactivated.S01E06.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Agent Kim Reactivated S01E06 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Sat, 11 Jul 2026 14:54:14 -0000</pubDate>
+    </item>
+    <item>
       <title>GENESIS CHAPTER 1 VERSE 1 || TRP-75 PART 1</title>
       <link>https://www.youtube.com/watch?v=MezTE2Vjq5A</link>
       <description>*Disclaimer: This video is made just for infotainment purposes and not to target, manipulate, or hurt anyone's feelings. This video is made adhering to the copyright act 1976* 
@@ -11900,6 +12037,18 @@ Copyright FUNKY TIME PRODUCTIONS 2026</description>
       <pubDate>Fri, 10 Jul 2026 16:00:26 -0000</pubDate>
     </item>
     <item>
+      <title>Agent Kim Reactivated S01E05 720p HEVC x265-MeGusta</title>
+      <link>magnet:?xt=urn:btih:3BCA29C82BCB361C0A3DE1130D062A149DACDC51&amp;dn=Agent+Kim+Reactivated+S01E05+720p+HEVC+x265-MeGusta&amp;tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&amp;tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce</link>
+      <description>New Episode: Agent Kim Reactivated S01E05 720p HEVC x265-MeGusta</description>
+      <pubDate>Fri, 10 Jul 2026 15:06:53 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E05 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:3bca29c82bcb361c0a3de1130d062a149dacdc51&amp;dn=Agent.Kim.Reactivated.S01E05.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Agent Kim Reactivated S01E05 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Fri, 10 Jul 2026 14:56:14 -0000</pubDate>
+    </item>
+    <item>
       <title>FINALLY A HIT FOR AKHIL? || The 99mm Reviews || #91</title>
       <link>https://www.youtube.com/watch?v=COU_qOBH1aI</link>
       <description>Like, share and subscribe if you agree with the analysis. Follow on our social media accounts.
@@ -12040,6 +12189,12 @@ funny telugu entertaining trolls
 telugu comedy videos
 trolls of godavari</description>
       <pubDate>Fri, 10 Jul 2026 08:30:06 -0000</pubDate>
+    </item>
+    <item>
+      <title>Silo S03E02 Its All Good 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:10defb038274f9032b4a602e78f42dd3f7f359e4&amp;dn=Silo.S03E02.Its.All.Good.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Silo S03E02 Its All Good 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Fri, 10 Jul 2026 01:44:12 -0000</pubDate>
     </item>
     <item>
       <title>She couldn't change her past. She made sure no one else had to live it. ❤️</title>
@@ -12460,6 +12615,18 @@ Copyright FUNKY TIME PRODUCTIONS 2026</description>
       <pubDate>Sun, 05 Jul 2026 04:50:12 -0000</pubDate>
     </item>
     <item>
+      <title>Agent Kim Reactivated S01E04 1080p HEVC x265-MeGusta</title>
+      <link>magnet:?xt=urn:btih:D1510E99E5102A948BFC0FE97D1E4F67E48C2B0B&amp;dn=Agent+Kim+Reactivated+S01E04+1080p+HEVC+x265-MeGusta&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&amp;tr=udp%3A%2F%2Fvito-tracker.space%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fvito-tracker.duckdns.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce</link>
+      <description>New Episode: Agent Kim Reactivated S01E04 1080p HEVC x265-MeGusta</description>
+      <pubDate>Sun, 05 Jul 2026 02:20:01 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E04 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:069365f5dbf3dd9df94f7b7c252b7cbf6b6746a0&amp;dn=Agent.Kim.Reactivated.S01E04.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Agent Kim Reactivated S01E04 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Sat, 04 Jul 2026 14:46:13 -0000</pubDate>
+    </item>
+    <item>
       <title>Rao Bahadur Movie Review by Barbell</title>
       <link>https://www.youtube.com/watch?v=JbUZjBI3uWs</link>
       <description>#raobahadurreview #raobahadur#raobahadurrating #raobahadurGenuinePublicTalk #raobahadurmovie #raobahadurreaction #raobahadurrecords #raobahadurGenuineReview #PublicTalk #Review #PublicReview #PublicResponse #Rating #Reaction #Trailer #reviews #barbellpitchmeetings #barbell</description>
@@ -12484,6 +12651,18 @@ Twitter: https://twitter.com/the99mmtweets?t=c...
 
 #trending #raobahadur #satyadev #venkateshmaha #reviews #telugureview #viral #review #youtube</description>
       <pubDate>Fri, 03 Jul 2026 15:22:08 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E03 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:57092514419c23cbf72cb2ff7044fbe9c3f15f00&amp;dn=Agent.Kim.Reactivated.S01E03.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Agent Kim Reactivated S01E03 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Fri, 03 Jul 2026 14:50:12 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E03 720p HEVC x265-MeGusta</title>
+      <link>magnet:?xt=urn:btih:1E4433F9FFD9300DDBA444E5BAF46543F70501B6&amp;dn=Agent.Kim.Reactivated.S01E03.720p.HEVC.x265-MeGusta&amp;tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&amp;tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce</link>
+      <description>New Episode: Agent Kim Reactivated S01E03 720p HEVC x265-MeGusta</description>
+      <pubDate>Fri, 03 Jul 2026 14:46:57 -0000</pubDate>
     </item>
     <item>
       <title>Is Swarga Really Luxurious? The Secret of Hinduism’s 14 Lokas</title>
@@ -12602,12 +12781,6 @@ Freshers looking to build a career in RPA
 
 #UiPath #AIAgents #MCP #DocumentUnderstanding #Maestro #RPA #Automation #RPAVault #UiPathTraining #AgenticAI #EnterpriseAutomation #RPADeveloper</description>
       <pubDate>Thu, 02 Jul 2026 16:42:02 -0000</pubDate>
-    </item>
-    <item>
-      <title>Do you know why Puri Jagannath’s idol is buried every few years?#puri #jagannath ...</title>
-      <link>https://www.youtube.com/shorts/c-8UTNNZIK4</link>
-      <description/>
-      <pubDate>Thu, 02 Jul 2026 15:13:25 -0000</pubDate>
     </item>
     <item>
       <title>Honest Pre-release events Part-2 🙏  #trending #funny #viral #comedy #telugu #youtube #trolls #memes</title>
@@ -12882,6 +13055,18 @@ Disclaimer - some contents are used for educational purpose under fair use. Copy
       <pubDate>Sun, 28 Jun 2026 13:23:49 -0000</pubDate>
     </item>
     <item>
+      <title>Agent Kim Reactivated S01E02 720p HEVC x265-MeGusta</title>
+      <link>magnet:?xt=urn:btih:DD2A74E5742D67D525CFB21C135766CA9FC04F0B&amp;dn=Agent+Kim+Reactivated+S01E02+720p+HEVC+x265-MeGusta&amp;tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&amp;tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce</link>
+      <description>New Episode: Agent Kim Reactivated S01E02 720p HEVC x265-MeGusta</description>
+      <pubDate>Sun, 28 Jun 2026 08:20:00 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E02 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:dd2a74e5742d67d525cfb21c135766ca9fc04f0b&amp;dn=Agent.Kim.Reactivated.S01E02.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Agent Kim Reactivated S01E02 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Sun, 28 Jun 2026 06:18:13 -0000</pubDate>
+    </item>
+    <item>
       <title>Bad 🐮</title>
       <link>https://www.youtube.com/shorts/Z7g5LWC3ZK0</link>
       <description/>
@@ -12938,6 +13123,18 @@ http://share.epidemicsound.com/pHDFT</description>
       <link>https://www.youtube.com/shorts/hCh0r6BV2Nk</link>
       <description/>
       <pubDate>Fri, 26 Jun 2026 20:05:22 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E01 720p HEVC x265-MeGusta EZTV</title>
+      <link>magnet:?xt=urn:btih:05769f0ee5c87a9f6dd8458d2e2e725228e52c7f&amp;dn=Agent.Kim.Reactivated.S01E01.720p.HEVC.x265-MeGusta%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Agent Kim Reactivated S01E01 720p HEVC x265-MeGusta EZTV</description>
+      <pubDate>Fri, 26 Jun 2026 14:50:13 -0000</pubDate>
+    </item>
+    <item>
+      <title>Agent Kim Reactivated S01E01 720p HEVC x265-MeGusta</title>
+      <link>magnet:?xt=urn:btih:167743651D30349CC0BADFDAB70901FB3BA3B4B8&amp;dn=Agent.Kim.Reactivated.S01E01.720p.HEVC.x265-MeGusta&amp;tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&amp;tr=udp%3A%2F%2F47.ip-51-68-199.eu%3A6969%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2730%2Fannounce&amp;tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&amp;tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce</link>
+      <description>New Episode: Agent Kim Reactivated S01E01 720p HEVC x265-MeGusta</description>
+      <pubDate>Fri, 26 Jun 2026 14:49:53 -0000</pubDate>
     </item>
     <item>
       <title>IBM did it!</title>
@@ -13614,6 +13811,12 @@ Stock assets: Getty Images
       <pubDate>Fri, 12 Jun 2026 02:18:53 -0000</pubDate>
     </item>
     <item>
+      <title>Daredevil S03E08 Upstairs and Downstairs 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB EZTV</title>
+      <link>magnet:?xt=urn:btih:9fca130abcf04114be1310099716b94041722b4f&amp;dn=Daredevil+S03E08+Upstairs%26Downstairs+1080p+DSNP+WEB-DL+DD+5+1+Atmos+H+264-playWEB%5Beztvx.to%5D&amp;tr=udp://tracker.opentrackr.org:1337/announce&amp;tr=udp://open.stealth.si:80/announce&amp;tr=udp://tracker.torrent.eu.org:451/announce&amp;tr=udp://tracker.dler.org:6969/announce&amp;tr=https://tracker.moeblog.cn:443/announce&amp;tr=https://tracker.zhuqiy.com:443/announce&amp;tr=udp://open.dstud.io:6969/announce</link>
+      <description>New Episode: Daredevil S03E08 Upstairs and Downstairs 1080p DSNP WEB-DL DD 5 1 Atmos H 264-playWEB EZTV</description>
+      <pubDate>Thu, 11 Jun 2026 20:38:28 -0000</pubDate>
+    </item>
+    <item>
       <title>World's First Touchscreen MacBook</title>
       <link>https://www.youtube.com/shorts/WmSqotqaqkA</link>
       <description>For my tech hot takes: http://twitter.com/Mrwhosetheboss
@@ -13664,49 +13867,6 @@ Live Walkthrough/Examples: Real-world scenarios demonstrating data analytics dri
 
 Whether you are an aspiring data scientist, a business leader looking to implement AI, or just curious about the future of tech, this session will give you a clear roadmap of how data and AI work hand-in-hand.</description>
       <pubDate>Tue, 09 Jun 2026 15:50:37 -0000</pubDate>
-    </item>
-    <item>
-      <title>Filtering in PostgreSQL | Where Clause</title>
-      <link>https://www.youtube.com/watch?v=qmQZ2jI3LX0</link>
-      <description>Create the Database with this script: https://github.com/AlexTheAnalyst/PostgresqlYouTubeSeries
-
-Practice Postgresql here: https://www.analystbuilder.com/questions
-
-In this series I want to teach you Postgresql! It's one of the most popular types of SQL right now and is becoming even more popular with the rise of AI. I'll teach you all the syntax and how to use it as well as go beyond just querying!
-____________________________________________ 
-
-RESOURCES:
-
-💻Analyst Builder - https://www.analystbuilder.com/
-
-📖Take my Full MySQL Course Here: https://bit.ly/3tqOipr
-📖Take my Full Python Course Here: https://bit.ly/48O581R
-📖Practice Technical Interview Questions: https://bit.ly/46pDqqL
-
-Coursera Courses:
-Google Data Analyst Certification: https://coursera.pxf.io/5bBd62
-Data Analysis with Python - https://coursera.pxf.io/BXY3Wy
-IBM Data Analysis Specialization - https://coursera.pxf.io/AoYOdR
-Tableau Data Visualization - https://coursera.pxf.io/MXYqaN
-
-*Please note I may earn a small commission for any purchase through these links - Thanks for supporting the channel!*
-____________________________________________ 
-
-BECOME A MEMBER - 
-
-Want to support the channel? Consider becoming a member! I do Monthly Livestreams and you get some awesome Emoji's to use in chat and comments!
-
-https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg/join
-____________________________________________ 
-
-Websites: 
-💻Website: AlexTheAnalyst.com
-💾GitHub: https://github.com/AlexTheAnalyst
-📱Instagram: @Alex_The_Analyst
-____________________________________________
-
-*All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*</description>
-      <pubDate>Tue, 09 Jun 2026 12:00:04 -0000</pubDate>
     </item>
     <item>
       <title>WWDC 2026 Impressions: Yeah, That's About Right</title>
